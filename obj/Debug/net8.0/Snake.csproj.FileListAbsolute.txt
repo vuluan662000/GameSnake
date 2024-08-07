@@ -1,0 +1,15 @@
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.AssemblyInfoInputs.cache
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.AssemblyInfo.cs
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.csproj.CoreCompileInputs.cache
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.sourcelink.json
+F:\Codegym\Snake\bin\Debug\net8.0\Snake.exe
+F:\Codegym\Snake\bin\Debug\net8.0\Snake.deps.json
+F:\Codegym\Snake\bin\Debug\net8.0\Snake.runtimeconfig.json
+F:\Codegym\Snake\bin\Debug\net8.0\Snake.dll
+F:\Codegym\Snake\bin\Debug\net8.0\Snake.pdb
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.dll
+F:\Codegym\Snake\obj\Debug\net8.0\refint\Snake.dll
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.pdb
+F:\Codegym\Snake\obj\Debug\net8.0\Snake.genruntimeconfig.cache
+F:\Codegym\Snake\obj\Debug\net8.0\ref\Snake.dll
